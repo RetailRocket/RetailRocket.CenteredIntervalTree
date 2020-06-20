@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <LangVersion>8</LangVersion>
+        <Nullable>enable</Nullable>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    </PropertyGroup>
+
+
+    <PropertyGroup>
+        <Authors>Andrey Chizh</Authors>
+        <RepositoryType>git</RepositoryType>
+        <Title>
+            Centered Interval Tree
+        </Title>
+        <PackageDescription>
+            Centered Interval Tree
+        </PackageDescription>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    </PropertyGroup>
+    
+    <ItemGroup>
+      <PackageReference Include="Optional" Version="4.0.0" />
+      <PackageReference Include="RetailRocket.Intervals" Version="0.0.0" />
+    </ItemGroup>
+
+</Project>

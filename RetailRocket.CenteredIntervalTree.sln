@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailRocket.CenteredIntervalTree", "RetailRocket.CenteredIntervalTree\RetailRocket.CenteredIntervalTree.csproj", "{8DAEC395-4D62-4A13-8039-66967394CDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailRocket.CenteredIntervalTree.UnitTests", "RetailRocket.CenteredIntervalTree.UnitTests\RetailRocket.CenteredIntervalTree.UnitTests.csproj", "{BE204EA6-17B1-4008-A967-25D02E5A379C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DAEC395-4D62-4A13-8039-66967394CDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAEC395-4D62-4A13-8039-66967394CDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAEC395-4D62-4A13-8039-66967394CDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAEC395-4D62-4A13-8039-66967394CDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE204EA6-17B1-4008-A967-25D02E5A379C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE204EA6-17B1-4008-A967-25D02E5A379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE204EA6-17B1-4008-A967-25D02E5A379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE204EA6-17B1-4008-A967-25D02E5A379C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
